@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&family=Merriweather&family=Roboto&display=swap%27');
+
+body {
+    padding: 0vw;
+    margin: 0vw;
+    background-color: #FFFFBB;
+}
+
+body .pagetag {
+    margin: 3.427vw auto 3.427vw 3.427vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    color: #022546;
+}
+
+body .loginform form {
+    display: flex;
+    flex-flow: column;
+    gap: 4.798vw;
+}
+
+body .loginform form .formelements {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10.624vw;
+}
+
+body .loginform form .formelements label {
+    width: 15.970vw;
+    height: 3.427vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    color: #022546;
+}
+
+body .loginform form .formelements input {
+    width: 34.271vw;
+    height: 3.427vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    background: #FFFFBB;
+    border: 0.343vw solid #022546;
+    border-radius: 1.028vw;
+}
+
+body .loginform form .button {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+body .loginform form .button button {
+    height: 4.455vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    color: #022546;
+    background: #FFFFBB;
+    border: 0.206vw solid #022546;
+    cursor: pointer;
+    border-radius: 1.028vw;
+}
+
+body .loginform form .button1 button {
+    width: 13.708vw;
+}
+
+body .loginform form .button2 button {
+    width: 30.570vw;
+}
+
+body .loginform form .button2 button a {
+    text-decoration: none;
+    color: inherit;
+}
